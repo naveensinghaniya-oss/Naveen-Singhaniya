@@ -1,0 +1,8 @@
+{
+  "name": "HOME DECOR — Shop Inventory & Ledger",
+  "description": "Mobile-first inventory, multi-unit stock in/out, billing, and payment ledger for HOME DECOR hardware, sanitaryware, and building materials showroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
